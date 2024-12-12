@@ -1,4 +1,4 @@
-# NFTSTORE
+# NFTSTORE DApp
 
 ## Overview
 
@@ -32,7 +32,7 @@ This is a decentralized NFT marketplace built using Hardhat and Next.js. The mar
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/priyanshuthakur2002/NFTSTORE.git
+   git clone https://github.com/abuhmhai/NFT_Store_DApp.git
    cd NFTSTORE
 
    ```
