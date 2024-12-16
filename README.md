@@ -3,6 +3,9 @@
 ## Overview
 
 This is a decentralized NFT marketplace built using Hardhat and Next.js. The marketplace allows users to mint, buy, and sell NFTs securely on the blockchain.
+<div style="text-align:center;">
+  <img src="client/src/app/z6136462018308_886821536fe34c81bfb19fc8f94b2b55.jpg" alt="site">
+</div>
 
 ## Project Structure
 
